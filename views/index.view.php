@@ -3,6 +3,7 @@
 
             <ul>
                 <li><a href= "/about">Meist</a></li>
+                <li><a href= "/about/culture">Kultuurist</a></li>
                 <li><a href= "/contact">Kirjuta meile</a></li>
             </ul>
 </nav>
